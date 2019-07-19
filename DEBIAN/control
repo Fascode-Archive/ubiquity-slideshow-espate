@@ -1,0 +1,8 @@
+Package: ubiquity-slideshow-espate
+Priority: optional
+Section: main
+Maintainer: Serene Team <serenelinux.dev@gmail.com>
+Architecture: amd64
+Version: 1.0.0
+Depends: ubiquity
+Description: This is a Ubiquity slide show for EspateOS.
